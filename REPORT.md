@@ -1,4 +1,4 @@
-## Architecture and Design Decisions (English Report)
+## Architecture and Design Decisions 
 
 ### 1) Design Patterns
 
