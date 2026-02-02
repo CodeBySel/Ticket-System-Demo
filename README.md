@@ -581,14 +581,6 @@ movie app/
 └── README.md
 ```
 
-## License
-
-This project is open source and available for educational purposes.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
-
-For questions or issues, please open an issue on the repository.
+CodeBySel https://www.linkedin.com/in/selin-d-05070a325/
